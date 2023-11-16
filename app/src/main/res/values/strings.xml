@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">KDrama</string>
+    <string name="movie_names">Judul Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="object_received">Object Diterima</string>
+    <string name="list">List</string>
+    <string-array name="data_name">
+        <item>Move To Heaven</item>
+        <item>Sweet Home</item>
+        <item>Squid Game</item>
+        <item>D.P.</item>
+        <item>One Ordinary Day</item>
+        <item>My Name</item>
+        <item>The Most Beautiful Goodbye</item>
+        <item>Extracurricular</item>
+        <item>The Hymn Of Death</item>
+        <item>The Silent Sea</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>A young man with Asperger’s syndrome and his estranged uncle, a former convict, work together as trauma cleaners, clearing out the possessions of dead people, uncovering the stories they left behind, and telling them to loved ones.</item>
+        <item>Cha Hyun Soo decides to leave his house. Strange things start to happen in his flat and all over Korea, which soon disrupts his quiet life. Hyun Soo and the other people who live there try to stay alive as people start to change into monsters.</item>
+        <item>The story of people, who are failures in their life plays a survival game named ‘Squid Game’. The risk is high, and so is the bet, which is $45.6 billion. The men in pink overalls and masks are watching every move. There will only be one winner.</item>
+        <item>The story of a team of Korean military police with the mission to catch deserters. Private Joon Ho and Corporal Ho Yul both team up to find the deserters. The drama reveals the painful reality endured by each enlistee during his compulsory call of duty.</item>
+        <item>The drama looks at the criminal justice system through the eyes of a college student who is suddenly the main suspect in a woman’s murder case and a lawyer who just barely passed the bar test and is trying to help him.</item>
+        <item>Yoon Ji Woo, who is part of a drug ring, joins the police to find out what happened to her father. She does this by becoming a mole for the drug group. She works in the police department’s unit that looks into drug crimes.</item>
+        <item>An ordinary middle-aged woman has devoted her life to her family. She is diagnosed with terminal cancer and prepares to say goodbye to her family. Her illness brings her family together for the first time, to support her at the very end of her life.</item>
+        <item>This drama is about three high school students named Ji Soo, who is a model student, his friend and classmate Gyu Ri, and the school bully Min Hee, who start committing crimes to make money and pay for college. As a result, they face unpredictable dangers.</item>
+        <item>During the time when Japan was in charge of Korea, a married man named Woo Jin falls in love with the first Korean singer, Shim Deok. She records “Praise of Death” in 1926, and it becomes the first Korean pop song. There fate ends tragically.</item>
+        <item>Set in the future, when the earth has become a desert and people don’t have enough water or food. The story is about members of a special team who are sent to the moon to get a strange sample from an abandoned research centre.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>@drawable/move_to_heaven_kdrama</item>
+        <item>@drawable/sweet_home_kdrama</item>
+        <item>@drawable/squid_game_kdrama</item>
+        <item>@drawable/dp_kdrama</item>
+        <item>@drawable/one_ordinary_day_kdrama</item>
+        <item>@drawable/my_name_kdrama</item>
+        <item>@drawable/the_most_beautiful_goodbye_kdrama</item>
+        <item>@drawable/extracurricular_kdrama</item>
+        <item>@drawable/the_hymn_of_death_kdrama</item>
+        <item>@drawable/the_silent_sea_kdrama_</item>
+    </string-array>
+
+    <string name="about">About</string>
+    <string name="my_name">Ardine Jivensen</string>
+    <string name="my_email">a233bsy2296@bangkit.academy</string>
+
+</resources>
